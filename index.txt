@@ -1,0 +1,15 @@
+Q. Type of List
+    1. Ordered List
+        A. Number
+        B. Upper Roman
+        C. Lower Roman
+        D. Upper Alpha
+        E. Lower Aplha
+    2. Unordered List
+        A. Squre
+        B. Circle
+        C. Disc
+        D. None
+    3. Discription List
+
+    
